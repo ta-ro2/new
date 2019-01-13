@@ -1,4 +1,5 @@
 import random
+#この行入れるといい感じ。
 
 def hangman(word):
     i = 1
