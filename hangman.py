@@ -1,4 +1,4 @@
-import andom
+import randm
 
 def hangman(word):
     i = 1
